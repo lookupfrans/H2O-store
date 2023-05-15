@@ -159,6 +159,7 @@
     
    .lesson {
       width: 100%;
+      display: inline-block;
     }
     
     .header-right {
